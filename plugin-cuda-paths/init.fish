@@ -8,4 +8,3 @@ if test -d "/usr/local/cuda"
   end
 end
 
-

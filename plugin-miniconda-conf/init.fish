@@ -1,4 +1,4 @@
 # --- Miniconda config
-if test -e $HOME/miniconda/etc/fish/conf.d/conda.fish
-  source $HOME/miniconda/etc/fish/conf.d/conda.fish
+if test -e $HOME/miniconda3/etc/fish/conf.d/conda.fish
+  source $HOME/miniconda3/etc/fish/conf.d/conda.fish
 end
