@@ -9,6 +9,6 @@ if not set --query FZF_DEFAULT_OPTS
 end
 
 if not set -q FZF_DEFAULT_COMMAND
-  set -gx   FZF_DEFAULT_COMMAND         "fd -L -d 4 --color always ."
+  set -gx   FZF_DEFAULT_COMMAND         "fd -L -d 4 ."
 end
 
